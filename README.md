@@ -384,6 +384,7 @@ Importance:
 
 ### Project Features Implemented
 
+```c
 ✅ Structure `Student`
 ✅ Array of students (max 20)
 ✅ Three subject scores
@@ -397,6 +398,7 @@ Importance:
 ✅ Input validation for scores
 ✅ Proper modular functions
 ✅ Exam-ready formatting
+```
 
 ---
 
